@@ -1,0 +1,13 @@
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+## How to Contribute
+
+### 1. Fork the Repository
+Click the **Fork** button at the top-right of the GitHub page.
+
+### 2. Clone Your Fork
+
+```bash
+git clone https://github.com/<your-username>/fraud-detection-project.git
